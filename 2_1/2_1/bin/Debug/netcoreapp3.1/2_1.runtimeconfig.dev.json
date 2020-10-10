@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\artka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\artka\\.nuget\\packages"
+    ]
+  }
+}
